@@ -17,9 +17,6 @@ h1.titulo{
     color: #DA8DB4;
     font-size: 4rem;
 }
-nav{
-    color: #5FA649;
-}
 nav ul {
     list-style: none;
     padding: 0;
@@ -31,7 +28,6 @@ nav ul li {
     margin: 0 90px;
     font-family: "Marvel";
     font-size: 2rem;
-    color: #316D1E;
 }
 nav ul li span{
     font-size: 1.6rem;
@@ -41,6 +37,7 @@ nav ul li span{
 form {
     max-width: 400px;
     margin: 0 auto;
+    margin-bottom: 50px;
 }
 form label {
     display: block;
