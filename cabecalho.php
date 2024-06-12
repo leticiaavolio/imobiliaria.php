@@ -12,7 +12,7 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">HOME</a>
+          <a class="nav-link active" aria-current="page" href="index.php">HOME</a>
         </li>
         <li class="nav-item">
           <span><a class="nav-link active" aria-current="page" href="cadastro_imovel.php">Cadastrar Imóveis</a></span>
