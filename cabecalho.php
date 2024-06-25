@@ -17,6 +17,9 @@
         <li class="nav-item">
           <span><a class="nav-link active" aria-current="page" href="cadastro_imovel.php">Cadastrar Imóveis</a></span>
         </li>
+        <li class="nav-item">
+          <span><a class="nav-link active" aria-current="page" href="mostrar.php">Listar Imóveis</a></span>
+        </li>
       </ul>
     </div>
   </div>
